@@ -71,3 +71,9 @@ Internal links - go from github to github
 - [x] buy groceries
 - [ ] cook the lasagne
 - [ ] eating 
+
+# Table
+
+| Real Name | Alice | Bob | Carl
+| --------- | ----- | --- | ---
+| Nick Name | Al | Spongebob |johnson
