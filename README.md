@@ -65,3 +65,9 @@ Internal links - go from github to github
 ![Cat](Image/gatinho.jpeg)
 
 :dancer:
+
+# Checkboxes
+
+- [x] buy groceries
+- [ ] cook the lasagne
+- [ ] eating 
