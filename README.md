@@ -54,3 +54,5 @@ function test() {
  www.google.com 
 
 <www.google.com>
+Internal links - go from github to github 
+[Julien](../julien)
