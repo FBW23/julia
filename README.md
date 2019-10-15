@@ -74,6 +74,8 @@ Internal links - go from github to github
 
 # Table
 
-| Real Name | Alice | Bob | Carl
+| :Real Name: | Alice | Bob | Carl
 | --------- | ----- | --- | ---
 | Nick Name | Al | Spongebob |johnson
+| Fone | 2423| 23424 | 234243
+| Hometowns | Argentina | Brazil |Canada
