@@ -62,5 +62,5 @@ Internal links - go from github to github
 
 [create an anchor](#anchors-in-markdown)
 
-![Cat](gatinho.jpeg)
+![Cat](Image/gatinho.jpeg)
 
