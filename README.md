@@ -1,5 +1,3 @@
-# julia
-
 # Heading
 
 ## Sub-heading
@@ -50,14 +48,11 @@ function test() {
  <p>
  </p>
  ```
-
- www.google.com 
+www.google.com 
 
 <www.google.com>
 
-
 Internal links - go from github to github
+
  
-[Julien](../../../julien)
-
-
+[Julien](../../julien)
