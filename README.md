@@ -52,7 +52,11 @@ www.google.com
 
 <www.google.com>
 
-Internal links - go from github to github
+Internal links - go from github to github 
 
- 
-[Julien](../../julien)
+
+[Julien](../../../julien)
+
+Anchors:
+
+[create an anchor](#anchor-in-markdown)
