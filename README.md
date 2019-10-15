@@ -69,8 +69,9 @@ Internal links - go from github to github
 # Checkboxes
 
 - [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating 
+- [x] cook the lasagne
+- [x] eating 
+- [x] cleaning
 
 # Table
 
