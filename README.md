@@ -45,6 +45,7 @@ function test() {
 <html>
  <head>
  </head>
+ <h1> 
  <p>
  </p>
  ```
@@ -59,5 +60,7 @@ Internal links - go from github to github
 
 # Anchors in Markdown
 
-[create an anchor](#anchor-in-markdown)
+[create an anchor](#anchors-in-markdown)
+
+![Cat](gatinho.jpeg)
 
